@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@stacks/connect": "^7.4.0",
+    "sbtc": "^0.1.8"
+  }
+}
